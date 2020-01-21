@@ -44,7 +44,7 @@ $ yarn
 # Inicie o servidor backend
 $ yarn dev
 ```
-Ou vá [aqui](https://omnistack-six.herokuapp.com).
+Ou vá [aqui](https://box.lucaslombardif.codes).
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
